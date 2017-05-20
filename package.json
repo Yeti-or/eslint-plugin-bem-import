@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-bem-import",
+  "version": "0.0.0",
+  "description": "lint BEM import notation ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeti-or/eslint-plugin-bem-import.git"
+  },
+  "keywords": [
+    "eslint",
+    "BEM",
+    "import",
+    "notation"
+  ],
+  "author": "Vasiliy Loginevskiy <yeti.or@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Yeti-or/eslint-plugin-bem-import/issues"
+  },
+  "homepage": "https://github.com/Yeti-or/eslint-plugin-bem-import#readme"
+}
