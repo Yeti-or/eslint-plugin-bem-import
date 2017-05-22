@@ -2,7 +2,9 @@
   "name": "eslint-plugin-bem-import",
   "version": "0.0.0",
   "description": "lint BEM import notation ",
-  "main": "index.js",
+  "files": [
+    "lib/"
+  ],
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
